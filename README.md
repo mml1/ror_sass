@@ -1,1 +1,2 @@
-# ror_sass_practice
+First project to practice Sass. Framework used is rails. 
+
